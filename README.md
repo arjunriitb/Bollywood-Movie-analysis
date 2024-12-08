@@ -19,8 +19,8 @@ Upon performing sentiment analysis, we obtain the following line graph, that var
 
 Upon processing the adjectives used by each character, we obtain the following word clouds:
 
-![Female Adjective Count](images/female_adj_worldcloud.png)
-![Male Adjective Count](images/male_adj_worldcloud.png)
+![Female Adjective Count](images/female_adj_wordcloud.png)
+![Male Adjective Count](images/male_adj_wordcloud.png)
 
 Similarly, the most used verbs for the two genders are as follows:
 
