@@ -1,5 +1,5 @@
 # Bollywood-Movie-analysis
-## Using Verbs: (change heading)
+## Sentimwnt Analysis on Verb file
 
 Upon processing the verbs used by each character, we obtain the following word clouds:
 
@@ -15,7 +15,7 @@ Upon performing sentiment analysis, we obtain the following line graph, that var
 
 ![Sentiment Analysis](images/verb_sentiment.png)
 
-## Using Adjectives: (change heading)
+## Using Adjectives
 
 Upon processing the adjectives used by each character, we obtain the following word clouds:
 
